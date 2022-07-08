@@ -63,7 +63,7 @@ it improves your the coding skills.It Helps in deep understanding of selenium li
 
 ## Code
 <p align="center">
-  <img width="300" height="200" src="https://github.com/Jawaria9/Bot-to-Scrape-data-from-sunahh.com/blob/main/download.gif">
+  <img width="400" height="400" src="https://github.com/Jawaria9/Bot-to-Scrape-data-from-sunahh.com/blob/main/data.gif">
 </p>
 
 
