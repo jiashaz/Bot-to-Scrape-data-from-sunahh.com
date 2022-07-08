@@ -54,8 +54,8 @@ it improves your the coding skills.It Helps in deep understanding of selenium li
 
 ## Includes Files
 
-1. .py
-2. .csv
+1. python file
+2. csv
 
  
 
