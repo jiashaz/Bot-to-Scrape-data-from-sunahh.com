@@ -60,10 +60,10 @@ it improves your the coding skills.It Helps in deep understanding of selenium li
  
 
 
-## Website Demo
+
 
 <p align="center">
-  <img width="800" height="400" src="https://github.com/Jawaria9/DashBoard-with-Chart-/blob/main/recording.gif">
+  <img width="800" height="400" src="https://github.com/Jawaria9/Bot-to-Scrape-data-from-sunahh.com/blob/main/download.gif">
 </p>
 
 
